@@ -1,0 +1,249 @@
+<NotepadPlus>
+    <Project name="bs_ecommerce">
+        <Folder name="admin">
+            <Folder name="includes">
+                <File name="admin\includes\footer.php" />
+                <File name="admin\includes\head.php" />
+                <File name="admin\includes\navigation.php" />
+            </Folder>
+            <Folder name="parsers">
+                <File name="admin\parsers\add_cart.php" />
+                <File name="admin\parsers\check_address.php" />
+                <File name="admin\parsers\child_categories.php" />
+                <File name="admin\parsers\update_cart.php" />
+            </Folder>
+            <File name="admin\archived.php" />
+            <File name="admin\brands.php" />
+            <File name="admin\categories.php" />
+            <File name="admin\change_password.php" />
+            <File name="admin\index.php" />
+            <File name="admin\insight.php" />
+            <File name="admin\login.php" />
+            <File name="admin\logout.php" />
+            <File name="admin\orders.php" />
+            <File name="admin\products.php" />
+            <File name="admin\users.php" />
+        </Folder>
+        <Folder name="core">
+            <File name="core\init.php" />
+        </Folder>
+        <Folder name="css">
+            <File name="css\bootstrap-theme.css" />
+            <File name="css\bootstrap-theme.css.map" />
+            <File name="css\bootstrap-theme.min.css" />
+            <File name="css\bootstrap-theme.min.css.map" />
+            <File name="css\bootstrap.css" />
+            <File name="css\bootstrap.css.map" />
+            <File name="css\bootstrap.min.css" />
+            <File name="css\bootstrap.min.css.map" />
+            <File name="css\main.css" />
+        </Folder>
+        <Folder name="fonts">
+            <File name="fonts\glyphicons-halflings-regular.eot" />
+            <File name="fonts\glyphicons-halflings-regular.svg" />
+            <File name="fonts\glyphicons-halflings-regular.ttf" />
+            <File name="fonts\glyphicons-halflings-regular.woff" />
+            <File name="fonts\glyphicons-halflings-regular.woff2" />
+        </Folder>
+        <Folder name="helpers">
+            <File name="helpers\helpers.php" />
+        </Folder>
+        <Folder name="images">
+            <Folder name="headerlogo">
+                <File name="images\headerlogo\back-flower.png" />
+                <File name="images\headerlogo\background.png" />
+                <File name="images\headerlogo\fore-flower.png" />
+                <File name="images\headerlogo\text.png" />
+            </Folder>
+            <Folder name="products">
+                <File name="images\products\boys1.png" />
+                <File name="images\products\boys2.png" />
+                <File name="images\products\boys3.png" />
+                <File name="images\products\boys4.png" />
+                <File name="images\products\boys5.png" />
+                <File name="images\products\boys6.png" />
+                <File name="images\products\bunny.jpg" />
+                <File name="images\products\dress.png" />
+                <File name="images\products\girls1.png" />
+                <File name="images\products\girls2.png" />
+                <File name="images\products\girls3.png" />
+                <File name="images\products\girls4.png" />
+                <File name="images\products\men1.png" />
+                <File name="images\products\men2.png" />
+                <File name="images\products\men3.png" />
+                <File name="images\products\men4.png" />
+                <File name="images\products\men5.png" />
+                <File name="images\products\men6.png" />
+                <File name="images\products\men7.png" />
+                <File name="images\products\shoes.jpg" />
+                <File name="images\products\women1.png" />
+                <File name="images\products\women2.png" />
+                <File name="images\products\women3.png" />
+                <File name="images\products\women4.png" />
+                <File name="images\products\women5.png" />
+                <File name="images\products\women6.png" />
+                <File name="images\products\women7.png" />
+            </Folder>
+        </Folder>
+        <Folder name="includes">
+            <File name="includes\detailsmodal.php" />
+            <File name="includes\footer.php" />
+            <File name="includes\head.php" />
+            <File name="includes\headerfull.php" />
+            <File name="includes\headerpartial.php" />
+            <File name="includes\leftbar.php" />
+            <File name="includes\navigation.php" />
+            <File name="includes\rightbar.php" />
+            <Folder name="widgets">
+                <File name="includes\widgets\cart.php" />
+                <File name="includes\widgets\filters.php" />
+                <File name="includes\widgets\recent.php" />
+            </Folder>
+        </Folder>
+        <Folder name="js">
+            <File name="js\bootstrap.js" />
+            <File name="js\bootstrap.min.js" />
+            <File name="js\npm.js" />
+        </Folder>
+        <Folder name="vendor">
+            <Folder name="composer">
+                <File name="vendor\composer\autoload_classmap.php" />
+                <File name="vendor\composer\autoload_namespaces.php" />
+                <File name="vendor\composer\autoload_psr4.php" />
+                <File name="vendor\composer\autoload_real.php" />
+                <File name="vendor\composer\autoload_static.php" />
+                <File name="vendor\composer\ClassLoader.php" />
+                <File name="vendor\composer\installed.json" />
+                <File name="vendor\composer\LICENSE" />
+            </Folder>
+            <Folder name="stripe">
+                <Folder name="stripe-php">
+                    <Folder name="data">
+                        <File name="vendor\stripe\stripe-php\data\ca-certificates.crt" />
+                        <File name="vendor\stripe\stripe-php\data\test.png" />
+                    </Folder>
+                    <Folder name="lib">
+                        <Folder name="Error">
+                            <File name="vendor\stripe\stripe-php\lib\Error\Api.php" />
+                            <File name="vendor\stripe\stripe-php\lib\Error\ApiConnection.php" />
+                            <File name="vendor\stripe\stripe-php\lib\Error\Authentication.php" />
+                            <File name="vendor\stripe\stripe-php\lib\Error\Base.php" />
+                            <File name="vendor\stripe\stripe-php\lib\Error\Card.php" />
+                            <File name="vendor\stripe\stripe-php\lib\Error\InvalidRequest.php" />
+                            <File name="vendor\stripe\stripe-php\lib\Error\RateLimit.php" />
+                        </Folder>
+                        <Folder name="HttpClient">
+                            <File name="vendor\stripe\stripe-php\lib\HttpClient\ClientInterface.php" />
+                            <File name="vendor\stripe\stripe-php\lib\HttpClient\CurlClient.php" />
+                        </Folder>
+                        <Folder name="Util">
+                            <File name="vendor\stripe\stripe-php\lib\Util\AutoPagingIterator.php" />
+                            <File name="vendor\stripe\stripe-php\lib\Util\RequestOptions.php" />
+                            <File name="vendor\stripe\stripe-php\lib\Util\Set.php" />
+                            <File name="vendor\stripe\stripe-php\lib\Util\Util.php" />
+                        </Folder>
+                        <File name="vendor\stripe\stripe-php\lib\Account.php" />
+                        <File name="vendor\stripe\stripe-php\lib\AlipayAccount.php" />
+                        <File name="vendor\stripe\stripe-php\lib\ApiRequestor.php" />
+                        <File name="vendor\stripe\stripe-php\lib\ApiResource.php" />
+                        <File name="vendor\stripe\stripe-php\lib\ApiResponse.php" />
+                        <File name="vendor\stripe\stripe-php\lib\ApplicationFee.php" />
+                        <File name="vendor\stripe\stripe-php\lib\ApplicationFeeRefund.php" />
+                        <File name="vendor\stripe\stripe-php\lib\AttachedObject.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Balance.php" />
+                        <File name="vendor\stripe\stripe-php\lib\BalanceTransaction.php" />
+                        <File name="vendor\stripe\stripe-php\lib\BankAccount.php" />
+                        <File name="vendor\stripe\stripe-php\lib\BitcoinReceiver.php" />
+                        <File name="vendor\stripe\stripe-php\lib\BitcoinTransaction.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Card.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Charge.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Collection.php" />
+                        <File name="vendor\stripe\stripe-php\lib\CountrySpec.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Coupon.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Customer.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Dispute.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Event.php" />
+                        <File name="vendor\stripe\stripe-php\lib\ExternalAccount.php" />
+                        <File name="vendor\stripe\stripe-php\lib\FileUpload.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Invoice.php" />
+                        <File name="vendor\stripe\stripe-php\lib\InvoiceItem.php" />
+                        <File name="vendor\stripe\stripe-php\lib\JsonSerializable.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Order.php" />
+                        <File name="vendor\stripe\stripe-php\lib\OrderReturn.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Plan.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Product.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Recipient.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Refund.php" />
+                        <File name="vendor\stripe\stripe-php\lib\SingletonApiResource.php" />
+                        <File name="vendor\stripe\stripe-php\lib\SKU.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Stripe.php" />
+                        <File name="vendor\stripe\stripe-php\lib\StripeObject.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Subscription.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Token.php" />
+                        <File name="vendor\stripe\stripe-php\lib\Transfer.php" />
+                        <File name="vendor\stripe\stripe-php\lib\TransferReversal.php" />
+                    </Folder>
+                    <Folder name="tests">
+                        <File name="vendor\stripe\stripe-php\tests\AccountTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\ApiRequestorTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\ApplicationFeeRefundTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\ApplicationFeeTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\AuthenticationErrorTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\BalanceTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\BalanceTransactionTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\BankAccountTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\BitcoinReceiverTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\bootstrap.no_autoload.php" />
+                        <File name="vendor\stripe\stripe-php\tests\bootstrap.php" />
+                        <File name="vendor\stripe\stripe-php\tests\CardErrorTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\ChargeTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\CollectionTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\CountrySpecTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\CouponTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\CurlClientTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\CustomerTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\DiscountTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\DisputeTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\ErrorTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\ExternalAccountTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\FileUploadTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\InvalidRequestErrorTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\InvoiceTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\PlanTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\ProductTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\RateLimitErrorTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\RecipientTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\RefundTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\RequestOptionsTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\StripeObjectTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\SubscriptionTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\TestCase.php" />
+                        <File name="vendor\stripe\stripe-php\tests\TokenTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\TransferReversalTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\TransferTest.php" />
+                        <File name="vendor\stripe\stripe-php\tests\UtilTest.php" />
+                    </Folder>
+                    <File name="vendor\stripe\stripe-php\.coveralls.yml" />
+                    <File name="vendor\stripe\stripe-php\.gitignore" />
+                    <File name="vendor\stripe\stripe-php\.travis.yml" />
+                    <File name="vendor\stripe\stripe-php\build.php" />
+                    <File name="vendor\stripe\stripe-php\CHANGELOG.md" />
+                    <File name="vendor\stripe\stripe-php\composer.json" />
+                    <File name="vendor\stripe\stripe-php\init.php" />
+                    <File name="vendor\stripe\stripe-php\LICENSE" />
+                    <File name="vendor\stripe\stripe-php\phpunit.no_autoload.xml" />
+                    <File name="vendor\stripe\stripe-php\phpunit.xml" />
+                    <File name="vendor\stripe\stripe-php\README.md" />
+                    <File name="vendor\stripe\stripe-php\VERSION" />
+                </Folder>
+            </Folder>
+            <File name="vendor\autoload.php" />
+        </Folder>
+        <File name="cart.php" />
+        <File name="category.php" />
+        <File name="config.php" />
+        <File name="index.php" />
+        <File name="search.php" />
+        <File name="thankYou.php" />
+    </Project>
+</NotepadPlus>

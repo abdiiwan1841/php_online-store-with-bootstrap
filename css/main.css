@@ -1,0 +1,237 @@
+body{
+  padding-top: 50px;
+}
+
+h3 {
+  text-shadow: 1px 1px 3px #777;
+}
+
+#headerWrapper{
+  position: relative;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  height: 600px;
+  background-image: url(../images/headerlogo/background.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+/*  background-attachment: fixed; */
+/*  background-size: 100% 700px; */
+  background-size: cover;
+}
+
+#logotext{
+ position: absolute;
+ width: 100%;
+ height: 180px;
+ background-image: url(../images/headerlogo/boutiquelogo.png);
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: 70% auto;
+ /* background-size: 50% cover; */
+ top: 50%;
+ margin-top: -90px;
+}
+
+#fore-flower{
+  position: absolute;
+  width: 100%;
+  height: 400px;
+  background-image: url(../images/headerlogo/shopping_bags_only.png);
+  background-size: auto 400px;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  top: 550px;
+  right: -50px;
+}
+
+#back-flower{
+  position: absolute;
+  width: 100%;
+  height: 350px;
+  background-image: url(../images/headerlogo/shopping-hero.png);
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  background-size: auto 350px;
+  top: 450px;
+  left: -200x;
+}
+
+#partial-headerWrapper{
+  position: relative;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  height: 210px;
+  background-image: url(../images/headerlogo/background.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+/* background-size: 100% 700px; */
+  background-size: cover;
+}
+
+#partial-logotext{
+ position: absolute;
+ width: 100%;
+ height: 180px;
+ background-image: url(../images/headerlogo/boutiquelogo.png);
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: 70% 180px;
+ top: 50%;
+ margin-top: -90px;
+}
+/*
+#partial-fore-flower{
+  position: absolute;
+  width: 100%;
+  height: 400px;
+  background-image: url(../images/headerlogo/shopping_bags_only.png);
+  background-size: auto 400px;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  top: 100px;
+  right: -50px;
+}
+
+#partial-back-flower{
+  position: absolute;
+  width: 100%;
+  height: 350px;
+  background-image: url(../images/headerlogo/shopping-hero.png);
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  background-size: auto 350px;
+  top: 75px;
+  left: -250x;
+} */
+
+.col-sm-6, .col-md-4{
+  text-align: center;
+}
+
+.img-thumb{
+  width: auto;
+  height: 200px;
+}
+
+#footer{
+	margin-top: 50px;
+}
+}
+
+img.details{
+  width: 50%;
+  margin: 15px auto;
+}
+
+.table-auto{
+  width: auto;
+  margin: 0 auto;
+}
+
+#add-product-btn{
+  margin-top: -35px;
+}
+
+.saved-image{
+  text-align: center;
+}
+
+.saved-image img{
+  width: auto;
+  height: 150px;
+}
+
+#login-form{
+  width: 50%;
+  height: 60%;
+  border: 1px solid #000;
+  border-radius: 15px;
+  box-shadow: 7px 7px 15px rgba(0,0,0,0.5);
+  margin: 7% auto;
+  padding: 15px;  
+  background-color: #fff;
+}
+
+.totals-table-header th{
+  text-align: center;
+}
+
+#cart_widget td, #recent_widget{
+  font-size: 12px;
+}
+
+.input-group{
+  width: 80px;
+}
+
+.text-success,.text-danger{
+  font-size: 1.1em;
+}
+
+.bg-success,.bg-danger{
+  padding-top: 5px;
+}
+/*
+.affix{
+  top: 45px;
+}*/
+
+.input-group-addon:first-child{
+  width: 55px;
+}
+
+.input-group-addon:last-child{
+  width: 100%;
+}
+
+.amcharts-graph-g0 .amcharts-graph-column-element {
+  -webkit-transition: all .3s ease-out;
+  transition: all .3s ease-out;
+}
+.amcharts-graph-g0 .amcharts-graph-column-element:hover {
+  opacity: 0.7;
+}
+
+.amcharts-graph-g1 .amcharts-graph-stroke,.amcharts-graph-g2 .amcharts-graph-stroke{
+  stroke-dasharray: 200%;
+  -webkit-animation: css-effect 5s ease-out forwards;
+  animation: css-effect 5s ease-out forwards;
+}
+
+@-webkit-keyframes css-effect {
+  0% {
+    stroke-dashoffset: 200%;
+  }
+  100% {
+    stroke-dashoffset: 0%;
+  }
+}
+@keyframes css-effect {
+  0% {
+    stroke-dashoffset: 200%;
+  }
+  100% {
+    stroke-dashoffset: 0%;
+  }
+}
+/* or using:
+.amcharts-graph-g1 .amcharts-graph-stroke {
+  stroke-dasharray: 200%;
+  stroke-dashoffset: 200%;
+  -webkit-animation: css-effect 5s ease-out forwards;
+  animation: css-effect 5s ease-out forwards;
+}
+
+@-webkit-keyframes css-effect {
+  to {
+    stroke-dashoffset: 0%;
+  }
+}
+@keyframes css-effect {
+  to {
+    stroke-dashoffset: 0%;
+  }
+} */

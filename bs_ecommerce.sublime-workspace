@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "admin/products.php",
+			"settings":
+			{
+				"buffer_size": 13984,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/categories.php",
+			"settings":
+			{
+				"buffer_size": 5328,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 384.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/bs_ecommerce",
+		"/C/xampp/htdocs/bs_ecommerce/admin",
+		"/C/xampp/htdocs/bs_ecommerce/core",
+		"/C/xampp/htdocs/bs_ecommerce/helpers"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/bs_ecommerce/admin/index.php",
+		"/C/xampp/htdocs/bs_ecommerce/helpers/helpers.php",
+		"/C/xampp/htdocs/bs_ecommerce/core/init.php",
+		"/C/xampp/htdocs/bs_ecommerce/admin/categories.php",
+		"/C/xampp/htdocs/bs_ecommerce/bs_ecommerce.sublime-project",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_08_25_085612_create_humans_table.php",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_08_30_103456_create_salaries_table.php",
+		"/C/xampp/htdocs/lavina_draft/app/Salary.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/bowner/salary/index.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/layouts/bowner.blade.php",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_08_17_033501_create_posts_table.php",
+		"/C/xampp/htdocs/lavina_draft/database/migrations/2016_08_12_091028_create_photos_table.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/home.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/post.blade.php",
+		"/C/xampp/htdocs/lavina_draft/resources/views/includes.blade.php",
+		"/C/Users/huutung/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/huutung/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/lavina_draft/resources/views/test.html",
+		"/C/xampp/htdocs/lavina_draft/resources/assets/css/libs/custom.css",
+		"/C/xampp/htdocs/lavina_draft/resources/assets/js/libs/custom2.js",
+		"/C/xampp/htdocs/lavina_draft/resources/assets/js/libs/custom.js",
+		"/C/Users/huutung/AppData/Roaming/Sublime Text 3/Packages/User/mydiv.sublime-snippet",
+		"/C/xampp/htdocs/lavina_draft/resources/views/welcome.blade.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Add category",
+			"');\n",
+			"();\n",
+			"');\n",
+			"human",
+			">\n",
+			"panel",
+			"class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "admin/products.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13984,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 986.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "admin/categories.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5089,
+								5089
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2142.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 50.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "bs_ecommerce.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
