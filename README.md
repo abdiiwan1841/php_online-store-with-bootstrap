@@ -1,7 +1,7 @@
 # Online Store programmed by pure PHP and Bootstrap
 ###_Online Store using pure PHP and bootstrap, also with Admin product management system_
 
-#### [Demo link](http://tung.byethost6.com/bs_ecommerce)
+#### <a href="http://tung.byethost6.com/bs_ecommerce" target="_blank">Demo link</a>
 
 ### Screenshots:
 ![front page 1](https://c1.staticflickr.com/9/8135/29663760144_fbe8a29d29_c.jpg)
