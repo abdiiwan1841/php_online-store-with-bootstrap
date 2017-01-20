@@ -2,6 +2,10 @@
 ###_Online Store using pure PHP and bootstrap, also with Admin product management system_
 
 #### [Demo link] (http://tung.byethost6.com/bs_ecommerce)
+#### [Admin panel] (http://tung.byethost6.com/bs_ecommerce/admin)
+#### To login:
+##### &nbsp;&nbsp;&nbsp; email: admin@email.com 
+##### &nbsp;&nbsp;&nbsp; password: 123456
 
 ### Screenshots:
 ![front page 1](https://c1.staticflickr.com/9/8135/29663760144_fbe8a29d29_c.jpg)
